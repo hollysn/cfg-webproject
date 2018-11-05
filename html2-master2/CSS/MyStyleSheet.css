@@ -1,0 +1,13 @@
+h1 {
+      color: red;
+}
+#about_blue {
+  background-color: lightblue;
+}
+#about_yellow {
+  background-color: yellow;
+}
+    ul.nav li{
+        display: inline-block;
+        padding-right: 10px;
+    }
